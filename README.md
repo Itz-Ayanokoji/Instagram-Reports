@@ -27,7 +27,7 @@ pip install pyfiglet
 wget https://raw.githubusercontent.com/Itz-Ayanokoji/Instagram-Reports/main/reports.py
 ```
 ```
-python reports.py
+python3 reports.py
 ```
 
 # 100% Legit

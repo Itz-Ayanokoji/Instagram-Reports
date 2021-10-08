@@ -1,3 +1,7 @@
+# ABOUT TOOL :
+
+Instagram-Reports is a tool made to ban any scam or bad person.
+
 # Installation :
 
 ```
@@ -32,7 +36,5 @@ python reports.py
 
 <li>Do not copy this tool.
 
-
-
-<br>
-<h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
+## WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
